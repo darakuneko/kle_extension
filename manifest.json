@@ -1,0 +1,14 @@
+{
+	"name": "KLE Extension",
+    "description": "Make the KLE a little easier to use.",
+	"manifest_version": 3,
+	"version": "0.1",
+	"permissions": ["activeTab","scripting"],
+    "content_scripts": [
+        {
+          "run_at":"document_end",
+          "js": ["./content/jquery-3.6.3.min.js", "./content/index.js"],
+          "matches": ["http://www.keyboard-layout-editor.com/*"]
+        }
+    ]
+}
