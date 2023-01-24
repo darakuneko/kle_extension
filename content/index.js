@@ -1,18 +1,13 @@
-$(function(){
-    const sendKeycode  = (keycode) => document.getElementById("keyboard")
-        .dispatchEvent(new KeyboardEvent("keydown", { keyCode: keycode  }))
+const moveKeySrc = chrome.runtime.getURL("content/moveKey.js");
+const moveKeyP = import(moveKeySrc);
 
-    $('#tab-content').find('input').on("keydown", e => {
-        if(e.keyCode === 13){
-            e.preventDefault();
-            const id = $(e.target).attr('id')
-            $("#keyboard").trigger("focus")
-            if (e.shiftKey) {
-                sendKeycode(74)
-            } else {
-                sendKeycode(75)
-            }
-            $(`#${id}`).trigger("focus")
-        }
-    })
+const rotationKeySrc = chrome.runtime.getURL("content/rotationKey.js");
+const rotationKeyP = import(rotationKeySrc);
+
+$(async function(){   
+    const moveKey = await moveKeyP
+    moveKey.moveKeyEvent()
+
+    const rotationKey = await rotationKeyP
+    rotationKey.rotationKeyEvent()
 })

@@ -7,8 +7,15 @@
     "content_scripts": [
         {
           "run_at":"document_end",
-          "js": ["./content/jquery-3.6.3.min.js", "./content/index.js"],
+          "js": ["content/jquery-3.6.3.min.js", "content/index.js"],
           "matches": ["http://www.keyboard-layout-editor.com/*"]
         }
-    ]
+    ],
+    "web_accessible_resources": [{
+        "resources": [
+            "content/*"
+        ],
+        "matches": ["http://www.keyboard-layout-editor.com/*"]
+
+    }]
 }
