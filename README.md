@@ -1,5 +1,6 @@
 # KLE Extension
-KLE Extension is Chrome Extension.
+KLE Extension is Chrome Extension.   
+https://chrome.google.com/webstore/detail/kle-extension/mmeoplmfeihkneaciodidpdibdonohal
 
 https://user-images.githubusercontent.com/5214078/213187923-591f113f-8d7a-40e3-968b-13552fbee920.mov
 
