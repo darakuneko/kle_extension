@@ -8,6 +8,7 @@ Properties input
 
 - enter - moves to the next element.   
 - shift+enter - moves to the previous element.    
+- Input size from 6 to 18.    
 
 https://user-images.githubusercontent.com/5214078/214241103-4a99b4b2-41f5-41e2-accc-0751d42d1ec2.mp4
 
