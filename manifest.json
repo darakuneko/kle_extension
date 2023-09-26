@@ -2,12 +2,12 @@
 	"name": "KLE Extension",
     "description": "Make the KLE a little easier to use.",
 	"manifest_version": 3,
-	"version": "0.2",
+	"version": "0.3",
 	"permissions": [],
     "content_scripts": [
         {
           "run_at":"document_end",
-          "js": ["content/jquery-3.6.3.min.js", "content/index.js"],
+          "js": ["content/lib/jquery-3.6.3.min.js", "content/lib/html2canvas.min.js", "content/index.js"],
           "matches": ["http://www.keyboard-layout-editor.com/*"]
         }
     ],
