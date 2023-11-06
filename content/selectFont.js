@@ -12,7 +12,7 @@ const fontTemplate = (options) =>
                     <option value="regular">regular</option>
                 </select>
                 <input type="number" id="fontSize" name="fontSize" min="1" max="100" value="14" style="font-size: 16px; padding:2px;" /> px
-                <div>LastUpdated: 20230926</div>
+                <div>LastUpdated: 20231106</div>
             </div>
     </div>
 </div>
