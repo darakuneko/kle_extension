@@ -1,4 +1,6 @@
-const fontTemplate = (options) => 
+const lastUpdated = 20241004
+
+const fontTemplate = (options, lastUpdated) => 
 `
 <div class="form-group form-group-sm">
     <label class="control-label col-md-2 col-lg-1 text-nowrap" for="kbdcoloreditor">Google Font:</label>
@@ -12,7 +14,7 @@ const fontTemplate = (options) =>
                     <option value="regular">regular</option>
                 </select>
                 <input type="number" id="fontSize" name="fontSize" min="1" max="100" value="14" style="font-size: 16px; padding:2px;" /> px
-                <div>LastUpdated: 20240412</div>
+                <div>LastUpdated: ${lastUpdated}</div>
             </div>
     </div>
 </div>
@@ -31,7 +33,7 @@ export const selectFont = (list) =>  {
     const newStyle = $("<style>").attr("data-font", "font")
     $("head").append(newStyle)
     const familyOpts = list.map(l => `<option value="${l.family}">${l.family}</option>`)
-    $("#kbdproperties > form").prepend(fontTemplate(familyOpts))
+    $("#kbdproperties > form").prepend(fontTemplate(familyOpts, lastUpdated))
     $("#fontFamily").on('change', (e) =>{
         const family = $(e.currentTarget).children(':selected').val();
         const fontSize = $("#fontSize").val()

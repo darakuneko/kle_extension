@@ -116,6 +116,20 @@ export const list = [
     ]
   },
   {
+    "family": "Afacad Flux",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
     "family": "Agbalumo",
     "variants": [
       "regular"
@@ -545,7 +559,11 @@ export const list = [
   {
     "family": "Anaheim",
     "variants": [
-      "regular"
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
     ]
   },
   {
@@ -761,6 +779,12 @@ export const list = [
     ]
   },
   {
+    "family": "Anton SC",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Antonio",
     "variants": [
       "100",
@@ -939,6 +963,15 @@ export const list = [
   },
   {
     "family": "Arsenal",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Arsenal SC",
     "variants": [
       "regular",
       "italic",
@@ -1505,6 +1538,12 @@ export const list = [
     ]
   },
   {
+    "family": "Baskervville SC",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Battambang",
     "variants": [
       "100",
@@ -1559,6 +1598,19 @@ export const list = [
     "family": "Bebas Neue",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Beiruti",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -1916,6 +1968,23 @@ export const list = [
     ]
   },
   {
+    "family": "Bodoni Moda SC",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Bokor",
     "variants": [
       "regular"
@@ -1923,6 +1992,14 @@ export const list = [
   },
   {
     "family": "Bona Nova",
+    "variants": [
+      "regular",
+      "italic",
+      "700"
+    ]
+  },
+  {
+    "family": "Bona Nova SC",
     "variants": [
       "regular",
       "italic",
@@ -2083,6 +2160,12 @@ export const list = [
     ]
   },
   {
+    "family": "Bungee Tint",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Butcherman",
     "variants": [
       "regular"
@@ -2121,6 +2204,12 @@ export const list = [
     "variants": [
       "regular",
       "700"
+    ]
+  },
+  {
+    "family": "Cactus Classical Serif",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -2537,6 +2626,12 @@ export const list = [
       "700italic",
       "800italic",
       "900italic"
+    ]
+  },
+  {
+    "family": "Chocolate Classical Sans",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -3017,6 +3112,12 @@ export const list = [
     ]
   },
   {
+    "family": "Danfo",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Dangrek",
     "variants": [
       "regular"
@@ -3287,6 +3388,33 @@ export const list = [
       "600",
       "700",
       "800"
+    ]
+  },
+  {
+    "family": "Edu AU VIC WA NT Dots",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Edu AU VIC WA NT Guides",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Edu AU VIC WA NT Hand",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
     ]
   },
   {
@@ -4017,6 +4145,12 @@ export const list = [
     ]
   },
   {
+    "family": "Freeman",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Fresca",
     "variants": [
       "regular"
@@ -4048,6 +4182,18 @@ export const list = [
     ]
   },
   {
+    "family": "Fustat",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
     "family": "Fuzzy Bubbles",
     "variants": [
       "regular",
@@ -4067,6 +4213,12 @@ export const list = [
       "italic",
       "700",
       "700italic"
+    ]
+  },
+  {
+    "family": "Ga Maamli",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -5292,7 +5444,16 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -5358,6 +5519,12 @@ export const list = [
     ]
   },
   {
+    "family": "Jacquard 12",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Jacquard 12 Charted",
     "variants": [
       "regular"
@@ -5365,6 +5532,12 @@ export const list = [
   },
   {
     "family": "Jacquard 24",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Jacquard 24 Charted",
     "variants": [
       "regular"
     ]
@@ -5394,10 +5567,28 @@ export const list = [
     ]
   },
   {
+    "family": "Jaini",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Jaini Purva",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Jaldi",
     "variants": [
       "regular",
       "700"
+    ]
+  },
+  {
+    "family": "Jaro",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -5438,6 +5629,12 @@ export const list = [
   },
   {
     "family": "Jersey 25",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Jersey 25 Charted",
     "variants": [
       "regular"
     ]
@@ -5697,6 +5894,18 @@ export const list = [
   },
   {
     "family": "Kalnia",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Kalnia Glaze",
     "variants": [
       "100",
       "200",
@@ -6113,6 +6322,22 @@ export const list = [
     "family": "Kurale",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "LXGW WenKai Mono TC",
+    "variants": [
+      "300",
+      "regular",
+      "700"
+    ]
+  },
+  {
+    "family": "LXGW WenKai TC",
+    "variants": [
+      "300",
+      "regular",
+      "700"
     ]
   },
   {
@@ -6921,6 +7146,12 @@ export const list = [
     ]
   },
   {
+    "family": "Maname",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Mandali",
     "variants": [
       "regular"
@@ -7079,6 +7310,12 @@ export const list = [
   },
   {
     "family": "Mate SC",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Matemasie",
     "variants": [
       "regular"
     ]
@@ -7393,6 +7630,17 @@ export const list = [
     ]
   },
   {
+    "family": "Moderustic",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
     "family": "Mogra",
     "variants": [
       "regular"
@@ -7435,6 +7683,8 @@ export const list = [
     "family": "Monda",
     "variants": [
       "regular",
+      "500",
+      "600",
       "700"
     ]
   },
@@ -7842,6 +8092,12 @@ export const list = [
       "italic",
       "700",
       "800"
+    ]
+  },
+  {
+    "family": "New Amsterdam",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -9569,6 +9825,7 @@ export const list = [
       "500",
       "600",
       "700",
+      "800",
       "900"
     ]
   },
@@ -9581,6 +9838,7 @@ export const list = [
       "500",
       "600",
       "700",
+      "800",
       "900"
     ]
   },
@@ -9714,6 +9972,7 @@ export const list = [
       "500",
       "600",
       "700",
+      "800",
       "900"
     ]
   },
@@ -9740,6 +9999,7 @@ export const list = [
       "500",
       "600",
       "700",
+      "800",
       "900"
     ]
   },
@@ -10642,6 +10902,477 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite AR",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AT",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic"
+    ]
+  },
+  {
+    "family": "Playwrite AU NSW",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU QLD",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU SA",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU TAS",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU VIC",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite BE VLG",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite BE WAL",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite BR",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CA",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CL",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CO",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CU",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CZ",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DE Grund",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DE LA",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DE SAS",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DE VA",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DK Loopet",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DK Uloopet",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite ES",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite ES Deco",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite FR Moderne",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite FR Trad",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite GB J",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic"
+    ]
+  },
+  {
+    "family": "Playwrite GB S",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic"
+    ]
+  },
+  {
+    "family": "Playwrite HR",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite HR Lijeva",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite HU",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite ID",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IE",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IN",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IS",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IT Moderna",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IT Trad",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite MX",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NG Modern",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NL",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NO",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NZ",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite PE",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite PL",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite PT",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite RO",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite SK",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite TZ",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite US Modern",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite US Trad",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite VN",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite ZA",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
     "family": "Plus Jakarta Sans",
     "variants": [
       "200",
@@ -10668,6 +11399,12 @@ export const list = [
       "600",
       "700",
       "800"
+    ]
+  },
+  {
+    "family": "Poetsen One",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -11048,6 +11785,19 @@ export const list = [
     ]
   },
   {
+    "family": "Radio Canada Big",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Radley",
     "variants": [
       "regular",
@@ -11276,6 +12026,40 @@ export const list = [
   },
   {
     "family": "Reddit Mono",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Reddit Sans",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Reddit Sans Condensed",
     "variants": [
       "200",
       "300",
@@ -11854,6 +12638,19 @@ export const list = [
     ]
   },
   {
+    "family": "SUSE",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
     "family": "Sacramento",
     "variants": [
       "regular"
@@ -11958,6 +12755,12 @@ export const list = [
   },
   {
     "family": "Sancreek",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Sankofa Display",
     "variants": [
       "regular"
     ]
@@ -12120,6 +12923,12 @@ export const list = [
     "variants": [
       "regular",
       "italic"
+    ]
+  },
+  {
+    "family": "Sedan SC",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -12361,6 +13170,12 @@ export const list = [
   },
   {
     "family": "Sixtyfour",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Sixtyfour Convergence",
     "variants": [
       "regular"
     ]
@@ -13095,6 +13910,21 @@ export const list = [
     ]
   },
   {
+    "family": "Teachers",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
+    ]
+  },
+  {
     "family": "Teko",
     "variants": [
       "300",
@@ -13233,6 +14063,12 @@ export const list = [
       "italic",
       "700",
       "700italic"
+    ]
+  },
+  {
+    "family": "Tiny5",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -13499,6 +14335,40 @@ export const list = [
       "regular",
       "italic",
       "700",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Ubuntu Sans",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
+    ]
+  },
+  {
+    "family": "Ubuntu Sans Mono",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -13861,6 +14731,23 @@ export const list = [
     ]
   },
   {
+    "family": "Wittgenstein",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Wix Madefor Display",
     "variants": [
       "regular",
@@ -14170,6 +15057,17 @@ export const list = [
     "family": "ZCOOL XiaoWei",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Zain",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
