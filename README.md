@@ -8,7 +8,6 @@ https://user-images.githubusercontent.com/5214078/213187923-591f113f-8d7a-40e3-9
 - shift+enter - moves to the previous element.    
 - Input size from 6 to 18.    
 
-
 ## Properties Rotation   
 https://user-images.githubusercontent.com/5214078/214241103-4a99b4b2-41f5-41e2-accc-0751d42d1ec2.mp4
 - Focus Mode - Clicking the key focuses in Rotation.   
@@ -16,6 +15,7 @@ https://user-images.githubusercontent.com/5214078/214241103-4a99b4b2-41f5-41e2-a
 ## Customize Fonts      
 https://www.youtube.com/watch?v=7OfNx2ZCyjc   
 
-## Export Standard Quality PNG      
+## Export Standard Quality PNG   
+https://www.youtube.com/watch?v=Nio6RXlDlSc   
 - The default export image is rough, so it will be decent.
-
+- Downloading customized information as an image

@@ -62,7 +62,7 @@ export const rotationKeyEvent = () => {
 
     keyClickEvent()
     
-    const observer = new MutationObserver(function(){
+    const observerRotationKeyEvent = new MutationObserver(function(){
         var events = $._data($('.key').get(0), "events")
         if(!events) keyClickEvent()
     });
@@ -71,5 +71,5 @@ export const rotationKeyEvent = () => {
     const config = { 
         childList: true
     }
-    observer.observe(elem, config)
+    observerRotationKeyEvent.observe(elem, config)
 }

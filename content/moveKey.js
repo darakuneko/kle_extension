@@ -1,6 +1,5 @@
 const sendKeycode = (keycode) => document.getElementById("keyboard")
 .dispatchEvent(new KeyboardEvent("keydown", { keyCode: keycode }))
-const wait = async (ms) => new Promise(resolve => setTimeout(resolve, ms))
 
 export const moveKey = (e) =>  {
         if(e.keyCode === 13){  

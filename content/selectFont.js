@@ -2,8 +2,9 @@ const lastUpdated = 20241004
 
 const fontTemplate = (options, lastUpdated) => 
 `
-<div class="form-group form-group-sm">
-    <label class="control-label col-md-2 col-lg-1 text-nowrap" for="kbdcoloreditor">Google Font:</label>
+<div class="form-group form-group-sm font-list">
+    <label class="control-label col-md-2 col-lg-1 text-nowrap" for="kbdfontditor">Google Font:</label>
+    <div  style="margin: 4px 0 0;position: absolute;left: 33px;"><input type="checkbox" name="font-view" checked></div>
     <div class="col-md-10 col-lg-11">
             <div class="form-inline">
                 <select name="fontFamily" id="fontFamily" style="font-size: 16px; padding:4px;">
@@ -19,6 +20,7 @@ const fontTemplate = (options, lastUpdated) =>
     </div>
 </div>
 `
+
 const customStyleTemplate = (family, variant, size) => {
     if(family){
         return `@import url("https://fonts.googleapis.com/css?family=${family}:${variant}");
@@ -37,6 +39,7 @@ export const selectFont = (list) =>  {
     $("#fontFamily").on('change', (e) =>{
         const family = $(e.currentTarget).children(':selected').val();
         const fontSize = $("#fontSize").val()
+        $('#info-font').text(`Font: ${family}`)
         if(family.length > 0){
             const obj = list.find(l => l.family === family)
             const variantsOpts = obj.variants.map(v => v === "regular" ?
@@ -65,4 +68,12 @@ export const selectFont = (list) =>  {
             $('style[data-font="font"]').empty().append(customStyleTemplate(family, variant, fontSize))
         }
     });
+
+    $('input[name="font-view"]').on("change", e => {
+        if($(e.target).prop('checked')){
+          $("#info-font").show()
+        } else {
+          $("#info-font").hide()
+        }
+      })
 }

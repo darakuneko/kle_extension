@@ -7,6 +7,9 @@ const rotationKeyP = import(rotationKeySrc);
 const replaceInputSRC = chrome.runtime.getURL("content/replaceInput.js");
 const replaceInputP = import(replaceInputSRC);
 
+const replaceInfoSRC = chrome.runtime.getURL("content/replaceInfo.js");
+const replaceInfoP = import(replaceInfoSRC);
+
 const fontSRC = chrome.runtime.getURL("content/font.js");
 const fontP = import(fontSRC);
 
@@ -34,4 +37,7 @@ $(async function(){
 
     const exportKeymap = await exportKeymapP
     exportKeymap.exportKeymap()
+
+    const replaceInfo = await replaceInfoP
+    replaceInfo.replaceInfo()
 })
