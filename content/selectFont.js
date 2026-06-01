@@ -1,4 +1,4 @@
-const lastUpdated = 20241004
+const lastUpdated = 20260601
 
 const fontTemplate = (options, lastUpdated) => 
 `

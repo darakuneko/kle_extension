@@ -126,7 +126,8 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
     ]
   },
   {
@@ -140,6 +141,12 @@ export const list = [
     "variants": [
       "regular",
       "700"
+    ]
+  },
+  {
+    "family": "Agu Display",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -188,9 +195,35 @@ export const list = [
     ]
   },
   {
+    "family": "Akt",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
     "family": "Aladin",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Alan Sans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -262,14 +295,14 @@ export const list = [
     "family": "Alegreya SC",
     "variants": [
       "regular",
-      "italic",
       "500",
-      "500italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "italic",
+      "500italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -277,18 +310,18 @@ export const list = [
     "family": "Alegreya Sans",
     "variants": [
       "100",
-      "100italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -296,18 +329,18 @@ export const list = [
     "family": "Alegreya Sans SC",
     "variants": [
       "100",
-      "100italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -419,6 +452,12 @@ export const list = [
     ]
   },
   {
+    "family": "Allkin",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Allura",
     "variants": [
       "regular"
@@ -437,8 +476,8 @@ export const list = [
     "family": "Almendra",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -499,6 +538,41 @@ export const list = [
     ]
   },
   {
+    "family": "Alumni Sans SC",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Alyamama",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
     "family": "Amarante",
     "variants": [
       "regular"
@@ -508,8 +582,27 @@ export const list = [
     "family": "Amaranth",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Amarna",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -538,8 +631,8 @@ export const list = [
     "family": "Amiri",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -567,6 +660,50 @@ export const list = [
     ]
   },
   {
+    "family": "Ancizar Sans",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic",
+      "1000italic"
+    ]
+  },
+  {
+    "family": "Ancizar Serif",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Andada Pro",
     "variants": [
       "regular",
@@ -585,8 +722,8 @@ export const list = [
     "family": "Andika",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -743,8 +880,8 @@ export const list = [
     "family": "Anonymous Pro",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -965,8 +1102,8 @@ export const list = [
     "family": "Arsenal",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -974,8 +1111,8 @@ export const list = [
     "family": "Arsenal SC",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -989,8 +1126,8 @@ export const list = [
     "family": "Arvo",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -1028,25 +1165,31 @@ export const list = [
     "family": "Asap Condensed",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
   {
     "family": "Asar",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Asimovian",
     "variants": [
       "regular"
     ]
@@ -1061,6 +1204,17 @@ export const list = [
     "family": "Assistant",
     "variants": [
       "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Asta Sans",
+    "variants": [
       "300",
       "regular",
       "500",
@@ -1098,9 +1252,47 @@ export const list = [
     "family": "Atkinson Hyperlegible",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "Atkinson Hyperlegible Mono",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
+    ]
+  },
+  {
+    "family": "Atkinson Hyperlegible Next",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
     ]
   },
   {
@@ -1159,10 +1351,10 @@ export const list = [
     "family": "Averia Libre",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -1170,10 +1362,10 @@ export const list = [
     "family": "Averia Sans Libre",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -1181,10 +1373,10 @@ export const list = [
     "family": "Averia Serif Libre",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -1215,8 +1407,8 @@ export const list = [
     "family": "B612",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -1224,9 +1416,27 @@ export const list = [
     "family": "B612 Mono",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "BBH Bartle",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "BBH Bogle",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "BBH Hegarty",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -1258,6 +1468,15 @@ export const list = [
     ]
   },
   {
+    "family": "BJCree",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Babylonica",
     "variants": [
       "regular"
@@ -1271,6 +1490,12 @@ export const list = [
   },
   {
     "family": "Bad Script",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Badeen Display",
     "variants": [
       "regular"
     ]
@@ -1297,16 +1522,16 @@ export const list = [
     "family": "Bai Jamjuree",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -1426,8 +1651,8 @@ export const list = [
     "family": "Balsamiq Sans",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -1447,22 +1672,22 @@ export const list = [
     "family": "Barlow",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -1470,22 +1695,22 @@ export const list = [
     "family": "Barlow Condensed",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -1493,22 +1718,22 @@ export const list = [
     "family": "Barlow Semi Condensed",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -1534,13 +1759,22 @@ export const list = [
     "family": "Baskervville",
     "variants": [
       "regular",
-      "italic"
+      "500",
+      "600",
+      "700",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
     ]
   },
   {
     "family": "Baskervville SC",
     "variants": [
-      "regular"
+      "regular",
+      "500",
+      "600",
+      "700"
     ]
   },
   {
@@ -1569,22 +1803,22 @@ export const list = [
     "family": "Be Vietnam Pro",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -1643,10 +1877,10 @@ export const list = [
     "family": "Bellota",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -1654,10 +1888,10 @@ export const list = [
     "family": "Bellota Text",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -1705,6 +1939,30 @@ export const list = [
     ]
   },
   {
+    "family": "Betania Patmos",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Betania Patmos GDL",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Betania Patmos In",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Betania Patmos In GDL",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Beth Ellen",
     "variants": [
       "regular"
@@ -1724,7 +1982,7 @@ export const list = [
     ]
   },
   {
-    "family": "Big Shoulders Display",
+    "family": "Big Shoulders",
     "variants": [
       "100",
       "200",
@@ -1738,7 +1996,7 @@ export const list = [
     ]
   },
   {
-    "family": "Big Shoulders Inline Display",
+    "family": "Big Shoulders Inline",
     "variants": [
       "100",
       "200",
@@ -1752,49 +2010,7 @@ export const list = [
     ]
   },
   {
-    "family": "Big Shoulders Inline Text",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ]
-  },
-  {
-    "family": "Big Shoulders Stencil Display",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ]
-  },
-  {
-    "family": "Big Shoulders Stencil Text",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700",
-      "800",
-      "900"
-    ]
-  },
-  {
-    "family": "Big Shoulders Text",
+    "family": "Big Shoulders Stencil",
     "variants": [
       "100",
       "200",
@@ -1872,6 +2088,174 @@ export const list = [
       "200",
       "300",
       "regular",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Grid Double",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Grid Double Ink",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Grid Single",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Grid Single Ink",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Ink",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Prop Double",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Prop Double Ink",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Prop Single",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Prop Single Ink",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Single",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Bitcount Single Ink",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
       "600",
       "700",
       "800",
@@ -1991,19 +2375,25 @@ export const list = [
     ]
   },
   {
+    "family": "Boldonse",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Bona Nova",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
     "family": "Bona Nova SC",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -2038,6 +2428,24 @@ export const list = [
   },
   {
     "family": "Bowlby One SC",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Bpmf Huninn",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Bpmf Iansui",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Bpmf Zihi Kai Std",
     "variants": [
       "regular"
     ]
@@ -2120,6 +2528,8 @@ export const list = [
     "family": "Buenard",
     "variants": [
       "regular",
+      "500",
+      "600",
       "700"
     ]
   },
@@ -2173,6 +2583,12 @@ export const list = [
   },
   {
     "family": "Butterfly Kids",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Bytesized",
     "variants": [
       "regular"
     ]
@@ -2234,7 +2650,8 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
     ]
   },
   {
@@ -2247,15 +2664,22 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
+    ]
+  },
+  {
+    "family": "Cal Sans",
+    "variants": [
+      "regular"
     ]
   },
   {
     "family": "Caladea",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2275,8 +2699,8 @@ export const list = [
     "family": "Cambay",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2296,8 +2720,8 @@ export const list = [
     "family": "Cantarell",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2341,16 +2765,16 @@ export const list = [
     "family": "Cardo",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
     "family": "Carlito",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2376,6 +2800,40 @@ export const list = [
     "family": "Carter One",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Cascadia Code",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Cascadia Mono",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
     ]
   },
   {
@@ -2409,9 +2867,23 @@ export const list = [
     "family": "Caudex",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "Cause",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -2445,14 +2917,14 @@ export const list = [
     "family": "Chakra Petch",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -2485,8 +2957,8 @@ export const list = [
     "family": "Charis SIL",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2580,6 +3052,61 @@ export const list = [
     "family": "Chilanka",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Chiron GoRound TC",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Chiron Hei HK",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Chiron Sung HK",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -2729,11 +3256,18 @@ export const list = [
     "family": "Comic Neue",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "Comic Relief",
+    "variants": [
+      "regular",
+      "700"
     ]
   },
   {
@@ -2814,6 +3348,12 @@ export const list = [
     ]
   },
   {
+    "family": "Coral Pixels",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Corben",
     "variants": [
       "regular",
@@ -2846,14 +3386,14 @@ export const list = [
     "family": "Cormorant Garamond",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -2861,14 +3401,14 @@ export const list = [
     "family": "Cormorant Infant",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -2903,6 +3443,20 @@ export const list = [
     ]
   },
   {
+    "family": "Cossette Texte",
+    "variants": [
+      "regular",
+      "700"
+    ]
+  },
+  {
+    "family": "Cossette Titre",
+    "variants": [
+      "regular",
+      "700"
+    ]
+  },
+  {
     "family": "Courgette",
     "variants": [
       "regular"
@@ -2912,8 +3466,8 @@ export const list = [
     "family": "Courier Prime",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2921,8 +3475,8 @@ export const list = [
     "family": "Cousine",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -2983,10 +3537,10 @@ export const list = [
     "family": "Crimson Text",
     "variants": [
       "regular",
-      "italic",
       "600",
-      "600italic",
       "700",
+      "italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -3037,10 +3591,10 @@ export const list = [
     "family": "DM Mono",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
+      "300italic",
+      "italic",
       "500italic"
     ]
   },
@@ -3056,6 +3610,7 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
       "100italic",
       "200italic",
       "300italic",
@@ -3064,7 +3619,8 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
@@ -3085,14 +3641,14 @@ export const list = [
     "family": "Dai Banna SIL",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -3139,6 +3695,20 @@ export const list = [
     "family": "Darumadrop One",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Datatype",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -3312,6 +3882,20 @@ export const list = [
     ]
   },
   {
+    "family": "Doto",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
     "family": "Dr Sugiyama",
     "variants": [
       "regular"
@@ -3375,8 +3959,8 @@ export const list = [
     "family": "Economica",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -3388,6 +3972,15 @@ export const list = [
       "600",
       "700",
       "800"
+    ]
+  },
+  {
+    "family": "Edu AU VIC WA NT Arrows",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
     ]
   },
   {
@@ -3418,7 +4011,34 @@ export const list = [
     ]
   },
   {
+    "family": "Edu AU VIC WA NT Pre",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Edu NSW ACT Cursive",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Edu NSW ACT Foundation",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Edu NSW ACT Hand Pre",
     "variants": [
       "regular",
       "500",
@@ -3436,7 +4056,25 @@ export const list = [
     ]
   },
   {
+    "family": "Edu QLD Hand",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Edu SA Beginner",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Edu SA Hand",
     "variants": [
       "regular",
       "500",
@@ -3463,6 +4101,24 @@ export const list = [
     ]
   },
   {
+    "family": "Edu VIC WA NT Hand",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Edu VIC WA NT Hand Pre",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "El Messiri",
     "variants": [
       "regular",
@@ -3475,6 +4131,29 @@ export const list = [
     "family": "Electrolize",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Elms Sans",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -3638,6 +4317,44 @@ export const list = [
     ]
   },
   {
+    "family": "Epunda Sans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Epunda Slab",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Erica One",
     "variants": [
       "regular"
@@ -3647,6 +4364,20 @@ export const list = [
     "family": "Esteban",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Estedad",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -3663,6 +4394,12 @@ export const list = [
   },
   {
     "family": "Ewert",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Exile",
     "variants": [
       "regular"
     ]
@@ -3733,19 +4470,25 @@ export const list = [
     ]
   },
   {
+    "family": "Faculty Glyphic",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Fahkwang",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -3887,16 +4630,49 @@ export const list = [
     ]
   },
   {
-    "family": "Finlandica",
+    "family": "Finlandica Headline",
     "variants": [
+      "100",
+      "200",
+      "300",
       "regular",
       "500",
       "600",
       "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
       "italic",
       "500italic",
       "600italic",
-      "700italic"
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Finlandica Text",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -3921,22 +4697,22 @@ export const list = [
     "family": "Fira Sans",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -3944,22 +4720,22 @@ export const list = [
     "family": "Fira Sans Condensed",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -3967,22 +4743,22 @@ export const list = [
     "family": "Fira Sans Extra Condensed",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -4182,6 +4958,34 @@ export const list = [
     ]
   },
   {
+    "family": "Funnel Display",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Funnel Sans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
+    ]
+  },
+  {
     "family": "Fustat",
     "variants": [
       "200",
@@ -4210,8 +5014,8 @@ export const list = [
     "family": "GFS Neohellenic",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -4320,6 +5124,52 @@ export const list = [
     ]
   },
   {
+    "family": "Geist",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Geist Mono",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Gelasio",
     "variants": [
       "regular",
@@ -4371,8 +5221,8 @@ export const list = [
     "family": "Gentium Book Plus",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -4380,8 +5230,8 @@ export const list = [
     "family": "Gentium Plus",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -4404,6 +5254,25 @@ export const list = [
       "700",
       "800",
       "900"
+    ]
+  },
+  {
+    "family": "Geom",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -4449,6 +5318,12 @@ export const list = [
   },
   {
     "family": "Gideon Roman",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Gidole",
     "variants": [
       "regular"
     ]
@@ -4568,6 +5443,52 @@ export const list = [
     ]
   },
   {
+    "family": "Google Sans",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Google Sans Code",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
+    ]
+  },
+  {
+    "family": "Google Sans Flex",
+    "variants": [
+      "1",
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000"
+    ]
+  },
+  {
     "family": "Gorditas",
     "variants": [
       "regular",
@@ -4682,22 +5603,22 @@ export const list = [
     "family": "Grenze",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -4737,8 +5658,8 @@ export const list = [
     "family": "Gudea",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -4763,6 +5684,12 @@ export const list = [
   },
   {
     "family": "Gurajada",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Gveret Levin",
     "variants": [
       "regular"
     ]
@@ -4875,9 +5802,13 @@ export const list = [
     "family": "Hanuman",
     "variants": [
       "100",
+      "200",
       "300",
       "regular",
+      "500",
+      "600",
       "700",
+      "800",
       "900"
     ]
   },
@@ -4937,6 +5868,7 @@ export const list = [
   {
     "family": "Hepta Slab",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -4997,6 +5929,16 @@ export const list = [
     ]
   },
   {
+    "family": "Hind Mysuru",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Hind Siliguri",
     "variants": [
       "300",
@@ -5041,7 +5983,51 @@ export const list = [
     ]
   },
   {
+    "family": "Host Grotesk",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
+    ]
+  },
+  {
     "family": "Hubballi",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Hubot Sans",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Huninn",
     "variants": [
       "regular"
     ]
@@ -5056,18 +6042,18 @@ export const list = [
     "family": "IBM Plex Mono",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -5075,18 +6061,18 @@ export const list = [
     "family": "IBM Plex Sans",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -5106,18 +6092,18 @@ export const list = [
     "family": "IBM Plex Sans Condensed",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -5197,18 +6183,18 @@ export const list = [
     "family": "IBM Plex Serif",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -5278,6 +6264,12 @@ export const list = [
     ]
   },
   {
+    "family": "Iansui",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Ibarra Real Nova",
     "variants": [
       "regular",
@@ -5299,6 +6291,14 @@ export const list = [
   {
     "family": "Iceland",
     "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Idiqlat",
+    "variants": [
+      "200",
+      "300",
       "regular"
     ]
   },
@@ -5331,8 +6331,16 @@ export const list = [
   {
     "family": "Inclusive Sans",
     "variants": [
+      "300",
       "regular",
-      "italic"
+      "500",
+      "600",
+      "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
     ]
   },
   {
@@ -5389,10 +6397,10 @@ export const list = [
     "family": "Inria Sans",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -5400,10 +6408,10 @@ export const list = [
     "family": "Inria Serif",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
+      "300italic",
+      "italic",
       "700italic"
     ]
   },
@@ -5431,6 +6439,21 @@ export const list = [
     "variants": [
       "regular",
       "italic"
+    ]
+  },
+  {
+    "family": "Intel One Mono",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
     ]
   },
   {
@@ -5480,6 +6503,32 @@ export const list = [
     ]
   },
   {
+    "family": "Iosevka Charon",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Iosevka Charon Mono",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Irish Grover",
     "variants": [
       "regular"
@@ -5495,8 +6544,8 @@ export const list = [
     "family": "Istok Web",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -5773,8 +6822,8 @@ export const list = [
     "family": "Judson",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -5821,20 +6870,20 @@ export const list = [
     "family": "K2D",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "800italic"
     ]
   },
@@ -5926,25 +6975,34 @@ export const list = [
     ]
   },
   {
+    "family": "Kanchenjunga",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Kanit",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -5965,6 +7023,13 @@ export const list = [
       "500italic",
       "600italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "Kapakana",
+    "variants": [
+      "300",
+      "regular"
     ]
   },
   {
@@ -5992,6 +7057,20 @@ export const list = [
       "600italic",
       "700italic",
       "800italic"
+    ]
+  },
+  {
+    "family": "Karla Tamil Inclined",
+    "variants": [
+      "regular",
+      "700"
+    ]
+  },
+  {
+    "family": "Karla Tamil Upright",
+    "variants": [
+      "regular",
+      "700"
     ]
   },
   {
@@ -6047,6 +7126,17 @@ export const list = [
     "family": "Keania One",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Kedebideri",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -6130,16 +7220,16 @@ export const list = [
     "family": "KoHo",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -6147,16 +7237,16 @@ export const list = [
     "family": "Kodchasan",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -6247,16 +7337,16 @@ export const list = [
     "family": "Krub",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -6281,14 +7371,14 @@ export const list = [
     "family": "Kulim Park",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -6320,6 +7410,21 @@ export const list = [
   },
   {
     "family": "Kurale",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "LINE Seed JP",
+    "variants": [
+      "100",
+      "regular",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "LXGW Marker Gothic",
     "variants": [
       "regular"
     ]
@@ -6425,14 +7530,14 @@ export const list = [
     "family": "Lato",
     "variants": [
       "100",
-      "100italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "700",
-      "700italic",
       "900",
+      "100italic",
+      "300italic",
+      "italic",
+      "700italic",
       "900italic"
     ]
   },
@@ -6484,8 +7589,8 @@ export const list = [
     "family": "Lekton",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -6617,6 +7722,49 @@ export const list = [
     ]
   },
   {
+    "family": "Libertinus Keyboard",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Libertinus Math",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Libertinus Mono",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Libertinus Sans",
+    "variants": [
+      "regular",
+      "700",
+      "italic"
+    ]
+  },
+  {
+    "family": "Libertinus Serif",
+    "variants": [
+      "regular",
+      "600",
+      "700",
+      "italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
+    "family": "Libertinus Serif Display",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Libre Barcode 128",
     "variants": [
       "regular"
@@ -6662,8 +7810,13 @@ export const list = [
     "family": "Libre Baskerville",
     "variants": [
       "regular",
+      "500",
+      "600",
+      "700",
       "italic",
-      "700"
+      "500italic",
+      "600italic",
+      "700italic"
     ]
   },
   {
@@ -6689,8 +7842,8 @@ export const list = [
     "family": "Libre Caslon Text",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -6731,6 +7884,25 @@ export const list = [
     ]
   },
   {
+    "family": "Lilex",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Lilita One",
     "variants": [
       "regular"
@@ -6766,28 +7938,35 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
     ]
   },
   {
     "family": "Lisu Bosa",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
+    ]
+  },
+  {
+    "family": "Liter",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -6821,20 +8000,20 @@ export const list = [
     "family": "Livvic",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "900italic"
     ]
   },
@@ -6848,8 +8027,8 @@ export const list = [
     "family": "Lobster Two",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -7050,6 +8229,20 @@ export const list = [
     ]
   },
   {
+    "family": "M PLUS U",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
     "family": "Ma Shan Zheng",
     "variants": [
       "regular"
@@ -7126,16 +8319,16 @@ export const list = [
     "family": "Mali",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -7198,6 +8391,12 @@ export const list = [
       "600italic",
       "700italic",
       "800italic"
+    ]
+  },
+  {
+    "family": "Manufacturing Consent",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -7296,9 +8495,21 @@ export const list = [
     "family": "Marvel",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "Matangi",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -7318,72 +8529,6 @@ export const list = [
     "family": "Matemasie",
     "variants": [
       "regular"
-    ]
-  },
-  {
-    "family": "Material Icons",
-    "variants": [
-      "regular"
-    ]
-  },
-  {
-    "family": "Material Icons Outlined",
-    "variants": [
-      "regular"
-    ]
-  },
-  {
-    "family": "Material Icons Round",
-    "variants": [
-      "regular"
-    ]
-  },
-  {
-    "family": "Material Icons Sharp",
-    "variants": [
-      "regular"
-    ]
-  },
-  {
-    "family": "Material Icons Two Tone",
-    "variants": [
-      "regular"
-    ]
-  },
-  {
-    "family": "Material Symbols Outlined",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700"
-    ]
-  },
-  {
-    "family": "Material Symbols Rounded",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700"
-    ]
-  },
-  {
-    "family": "Material Symbols Sharp",
-    "variants": [
-      "100",
-      "200",
-      "300",
-      "regular",
-      "500",
-      "600",
-      "700"
     ]
   },
   {
@@ -7446,6 +8591,18 @@ export const list = [
     ]
   },
   {
+    "family": "Menbere",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Meow Script",
     "variants": [
       "regular"
@@ -7467,12 +8624,18 @@ export const list = [
     "family": "Merriweather",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
+      "500",
+      "600",
       "700",
-      "700italic",
+      "800",
       "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -7573,9 +8736,24 @@ export const list = [
     ]
   },
   {
+    "family": "Miranda Sans",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Miriam Libre",
     "variants": [
       "regular",
+      "500",
+      "600",
       "700"
     ]
   },
@@ -7680,6 +8858,51 @@ export const list = [
     ]
   },
   {
+    "family": "Momo Signature",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Momo Trust Display",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Momo Trust Sans",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Mona Sans",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Monda",
     "variants": [
       "regular",
@@ -7690,6 +8913,12 @@ export const list = [
   },
   {
     "family": "Monofett",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Monomakh",
     "variants": [
       "regular"
     ]
@@ -7769,30 +8998,46 @@ export const list = [
     "family": "Montserrat Alternates",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
   {
-    "family": "Montserrat Subrayada",
+    "family": "Montserrat Underline",
     "variants": [
+      "100",
+      "200",
+      "300",
       "regular",
-      "700"
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -7836,6 +9081,28 @@ export const list = [
     "family": "Mouse Memoirs",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Mozilla Headline",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Mozilla Text",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
     ]
   },
   {
@@ -7933,6 +9200,7 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
       "200italic",
       "300italic",
       "italic",
@@ -7940,7 +9208,8 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
@@ -8066,6 +9335,32 @@ export const list = [
     ]
   },
   {
+    "family": "Nata Sans",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "National Park",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
     "family": "Neonderthaw",
     "variants": [
       "regular"
@@ -8089,9 +9384,9 @@ export const list = [
       "200",
       "300",
       "regular",
-      "italic",
       "700",
-      "800"
+      "800",
+      "italic"
     ]
   },
   {
@@ -8148,16 +9443,16 @@ export const list = [
     "family": "Niramit",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
@@ -8171,10 +9466,10 @@ export const list = [
     "family": "Nobile",
     "variants": [
       "regular",
-      "italic",
       "500",
-      "500italic",
       "700",
+      "italic",
+      "500italic",
       "700italic"
     ]
   },
@@ -8182,9 +9477,13 @@ export const list = [
     "family": "Nokora",
     "variants": [
       "100",
+      "200",
       "300",
       "regular",
+      "500",
+      "600",
       "700",
+      "800",
       "900"
     ]
   },
@@ -8216,8 +9515,8 @@ export const list = [
     "family": "Noticia Text",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -9249,7 +10548,7 @@ export const list = [
     ]
   },
   {
-    "family": "Noto Sans Phags Pa",
+    "family": "Noto Sans PhagsPa",
     "variants": [
       "regular"
     ]
@@ -9373,6 +10672,12 @@ export const list = [
     ]
   },
   {
+    "family": "Noto Sans Sunuwar",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Noto Sans Syloti Nagri",
     "variants": [
       "regular"
@@ -9414,6 +10719,20 @@ export const list = [
   },
   {
     "family": "Noto Sans Syriac Eastern",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Noto Sans Syriac Western",
     "variants": [
       "100",
       "200",
@@ -9722,6 +11041,12 @@ export const list = [
     ]
   },
   {
+    "family": "Noto Serif Dives Akuru",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Noto Serif Dogra",
     "variants": [
       "regular"
@@ -9806,6 +11131,19 @@ export const list = [
     "family": "Noto Serif Hebrew",
     "variants": [
       "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
+    "family": "Noto Serif Hentaigana",
+    "variants": [
       "200",
       "300",
       "regular",
@@ -10075,6 +11413,12 @@ export const list = [
     ]
   },
   {
+    "family": "Noto Serif Todhri",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Noto Serif Toto",
     "variants": [
       "regular",
@@ -10182,6 +11526,7 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
       "200italic",
       "300italic",
       "italic",
@@ -10189,7 +11534,8 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
@@ -10203,6 +11549,7 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
       "200italic",
       "300italic",
       "italic",
@@ -10210,7 +11557,8 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
@@ -10259,8 +11607,8 @@ export const list = [
     "family": "Old Standard TT",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -10409,10 +11757,10 @@ export const list = [
     "family": "Overlock",
     "variants": [
       "regular",
-      "italic",
       "700",
-      "700italic",
       "900",
+      "italic",
+      "700italic",
       "900italic"
     ]
   },
@@ -10497,8 +11845,8 @@ export const list = [
     "family": "PT Sans",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -10520,8 +11868,8 @@ export const list = [
     "family": "PT Serif",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -10591,9 +11939,29 @@ export const list = [
     ]
   },
   {
+    "family": "Parastoo",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Parisienne",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Parkinsans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
     ]
   },
   {
@@ -10735,11 +12103,18 @@ export const list = [
     ]
   },
   {
+    "family": "Phetsarath",
+    "variants": [
+      "regular",
+      "700"
+    ]
+  },
+  {
     "family": "Philosopher",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -10881,15 +12256,67 @@ export const list = [
     "family": "Playfair Display SC",
     "variants": [
       "regular",
-      "italic",
       "700",
-      "700italic",
       "900",
+      "italic",
+      "700italic",
       "900italic"
     ]
   },
   {
     "family": "Playpen Sans",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Playpen Sans Arabic",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Playpen Sans Deva",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Playpen Sans Hebrew",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "Playpen Sans Thai",
     "variants": [
       "100",
       "200",
@@ -10911,6 +12338,12 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite AR Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite AT",
     "variants": [
       "100",
@@ -10924,11 +12357,24 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite AT Guides",
+    "variants": [
+      "regular",
+      "italic"
+    ]
+  },
+  {
     "family": "Playwrite AU NSW",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU NSW Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -10942,11 +12388,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite AU QLD Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite AU SA",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU SA Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -10960,11 +12418,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite AU TAS Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite AU VIC",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite AU VIC Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -10978,11 +12448,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite BE VLG Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite BE WAL",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite BE WAL Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -10996,11 +12478,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite BR Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite CA",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CA Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11014,11 +12508,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite CL Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite CO",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CO Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11032,11 +12538,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite CU Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite CZ",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite CZ Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11050,11 +12568,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite DE Grund Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite DE LA",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DE LA Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11068,11 +12598,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite DE SAS Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite DE VA",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DE VA Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11086,11 +12628,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite DK Loopet Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite DK Uloopet",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite DK Uloopet Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11113,6 +12667,18 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite ES Deco Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite ES Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite FR Moderne",
     "variants": [
       "100",
@@ -11122,11 +12688,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite FR Moderne Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite FR Trad",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite FR Trad Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11144,6 +12722,13 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite GB J Guides",
+    "variants": [
+      "regular",
+      "italic"
+    ]
+  },
+  {
     "family": "Playwrite GB S",
     "variants": [
       "100",
@@ -11157,11 +12742,24 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite GB S Guides",
+    "variants": [
+      "regular",
+      "italic"
+    ]
+  },
+  {
     "family": "Playwrite HR",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite HR Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11175,11 +12773,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite HR Lijeva Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite HU",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite HU Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11193,11 +12803,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite ID Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite IE",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IE Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11211,11 +12833,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite IN Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite IS",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IS Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11229,11 +12863,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite IT Moderna Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite IT Trad",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite IT Trad Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11247,11 +12893,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite MX Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite NG Modern",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NG Modern Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11265,11 +12923,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite NL Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite NO",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NO Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11283,11 +12953,38 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite NZ Basic",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NZ Basic Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite NZ Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite PE",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite PE Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11301,11 +12998,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite PL Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite PT",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite PT Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11319,11 +13028,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite RO Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite SK",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite SK Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11337,11 +13058,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite TZ Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite US Modern",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite US Modern Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11355,6 +13088,12 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite US Trad Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite VN",
     "variants": [
       "100",
@@ -11364,11 +13103,23 @@ export const list = [
     ]
   },
   {
+    "family": "Playwrite VN Guides",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Playwrite ZA",
     "variants": [
       "100",
       "200",
       "300",
+      "regular"
+    ]
+  },
+  {
+    "family": "Playwrite ZA Guides",
+    "variants": [
       "regular"
     ]
   },
@@ -11389,6 +13140,12 @@ export const list = [
       "600italic",
       "700italic",
       "800italic"
+    ]
+  },
+  {
+    "family": "Pochaevsk",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -11446,6 +13203,18 @@ export const list = [
     ]
   },
   {
+    "family": "Ponnala",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Ponomar",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Pontano Sans",
     "variants": [
       "300",
@@ -11465,22 +13234,22 @@ export const list = [
     "family": "Poppins",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -11560,22 +13329,22 @@ export const list = [
     "family": "Prompt",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -11613,14 +13382,14 @@ export const list = [
     "family": "Proza Libre",
     "variants": [
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "800italic"
     ]
   },
@@ -11657,8 +13426,8 @@ export const list = [
     "family": "Puritan",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -11684,8 +13453,8 @@ export const list = [
     "family": "Quantico",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -11700,8 +13469,8 @@ export const list = [
     "family": "Quattrocento Sans",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -11865,8 +13634,8 @@ export const list = [
     "family": "Rambla",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -11878,6 +13647,12 @@ export const list = [
   },
   {
     "family": "Rampart One",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Ramsina",
     "variants": [
       "regular"
     ]
@@ -11948,7 +13723,8 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
     ]
   },
   {
@@ -12174,16 +13950,22 @@ export const list = [
     "family": "Roboto",
     "variants": [
       "100",
-      "100italic",
+      "200",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
+      "600",
       "700",
-      "700italic",
+      "800",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -12213,7 +13995,16 @@ export const list = [
   {
     "family": "Roboto Flex",
     "variants": [
-      "regular"
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "1000"
     ]
   },
   {
@@ -12625,6 +14416,33 @@ export const list = [
     ]
   },
   {
+    "family": "SN Pro",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "STIX Two Math",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "STIX Two Text",
     "variants": [
       "regular",
@@ -12647,7 +14465,38 @@ export const list = [
       "500",
       "600",
       "700",
-      "800"
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "SUSE Mono",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic"
     ]
   },
   {
@@ -12735,9 +14584,26 @@ export const list = [
     ]
   },
   {
-    "family": "Saira Stencil One",
+    "family": "Saira Stencil",
     "variants": [
-      "regular"
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -12766,15 +14632,26 @@ export const list = [
     ]
   },
   {
+    "family": "Sansation",
+    "variants": [
+      "300",
+      "regular",
+      "700",
+      "300italic",
+      "italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Sansita",
     "variants": [
       "regular",
-      "italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -12794,20 +14671,20 @@ export const list = [
     "family": "Sarabun",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "800italic"
     ]
   },
@@ -12848,6 +14725,27 @@ export const list = [
     ]
   },
   {
+    "family": "Savate",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
     "family": "Sawarabi Gothic",
     "variants": [
       "regular"
@@ -12863,8 +14761,8 @@ export const list = [
     "family": "Scada",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -12898,6 +14796,20 @@ export const list = [
     "family": "Schoolbell",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Science Gothic",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -12944,6 +14856,12 @@ export const list = [
     ]
   },
   {
+    "family": "Sekuya",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Sen",
     "variants": [
       "regular",
@@ -12984,6 +14902,12 @@ export const list = [
     ]
   },
   {
+    "family": "Shafarik",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Shalimar",
     "variants": [
       "regular"
@@ -13016,8 +14940,8 @@ export const list = [
     "family": "Share",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -13138,8 +15062,8 @@ export const list = [
     "family": "Simonetta",
     "variants": [
       "regular",
-      "italic",
       "900",
+      "italic",
       "900italic"
     ]
   },
@@ -13158,6 +15082,12 @@ export const list = [
   },
   {
     "family": "Sirin Stencil",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Sirivennela",
     "variants": [
       "regular"
     ]
@@ -13277,6 +15207,7 @@ export const list = [
   {
     "family": "Sofia Sans",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -13286,6 +15217,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -13294,12 +15227,14 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
     "family": "Sofia Sans Condensed",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -13309,6 +15244,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -13317,12 +15254,14 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
     "family": "Sofia Sans Extra Condensed",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -13332,6 +15271,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -13340,12 +15281,14 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
     "family": "Sofia Sans Semi Condensed",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -13355,6 +15298,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -13363,7 +15308,8 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
@@ -13437,6 +15383,29 @@ export const list = [
     "variants": [
       "regular",
       "italic"
+    ]
+  },
+  {
+    "family": "Sour Gummy",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -13516,8 +15485,8 @@ export const list = [
     "family": "Space Mono",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -13528,21 +15497,42 @@ export const list = [
     ]
   },
   {
+    "family": "Special Gothic",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Special Gothic Condensed One",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Special Gothic Expanded One",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Spectral",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "800italic"
     ]
   },
@@ -13550,18 +15540,18 @@ export const list = [
     "family": "Spectral SC",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "800italic"
     ]
   },
@@ -13652,6 +15642,39 @@ export const list = [
     ]
   },
   {
+    "family": "Stack Sans Headline",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Stack Sans Notch",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
+    "family": "Stack Sans Text",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ]
+  },
+  {
     "family": "Stalemate",
     "variants": [
       "regular"
@@ -13708,9 +15731,26 @@ export const list = [
     ]
   },
   {
+    "family": "Story Script",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Strait",
     "variants": [
       "regular"
+    ]
+  },
+  {
+    "family": "Strichpunkt Sans",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
     ]
   },
   {
@@ -13837,7 +15877,33 @@ export const list = [
     ]
   },
   {
+    "family": "TASA Explorer",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
+    "family": "TASA Orbiter",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800"
+    ]
+  },
+  {
     "family": "Tac One",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "Tagesschrift",
     "variants": [
       "regular"
     ]
@@ -13890,22 +15956,22 @@ export const list = [
     "family": "Taviraj",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -13996,8 +16062,8 @@ export const list = [
     "family": "Thasadith",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -14019,6 +16085,18 @@ export const list = [
     "variants": [
       "regular",
       "700",
+      "900"
+    ]
+  },
+  {
+    "family": "TikTok Sans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
       "900"
     ]
   },
@@ -14060,8 +16138,8 @@ export const list = [
     "family": "Tinos",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -14128,6 +16206,17 @@ export const list = [
     ]
   },
   {
+    "family": "Tirra",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ]
+  },
+  {
     "family": "Titan One",
     "variants": [
       "regular"
@@ -14137,38 +16226,38 @@ export const list = [
     "family": "Titillium Web",
     "variants": [
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
-      "900"
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "600italic",
+      "700italic"
     ]
   },
   {
     "family": "Tomorrow",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -14208,25 +16297,31 @@ export const list = [
     ]
   },
   {
+    "family": "Triodion",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
     "family": "Trirong",
     "variants": [
       "100",
-      "100italic",
       "200",
-      "200italic",
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
-      "800italic",
       "900",
+      "100italic",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
       "900italic"
     ]
   },
@@ -14253,8 +16348,8 @@ export const list = [
     "family": "Trochut",
     "variants": [
       "regular",
-      "italic",
-      "700"
+      "700",
+      "italic"
     ]
   },
   {
@@ -14288,6 +16383,15 @@ export const list = [
     ]
   },
   {
+    "family": "Tuffy",
+    "variants": [
+      "regular",
+      "700",
+      "italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Tulpen One",
     "variants": [
       "regular"
@@ -14314,12 +16418,12 @@ export const list = [
     "family": "Ubuntu",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "700",
+      "300italic",
+      "italic",
+      "500italic",
       "700italic"
     ]
   },
@@ -14333,8 +16437,8 @@ export const list = [
     "family": "Ubuntu Mono",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -14444,9 +16548,15 @@ export const list = [
     "family": "Unna",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
+    ]
+  },
+  {
+    "family": "UoqMunThenKhung",
+    "variants": [
+      "regular"
     ]
   },
   {
@@ -14533,6 +16643,21 @@ export const list = [
     ]
   },
   {
+    "family": "Vend Sans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic"
+    ]
+  },
+  {
     "family": "Vesper Libre",
     "variants": [
       "regular",
@@ -14606,8 +16731,8 @@ export const list = [
     "family": "Volkhov",
     "variants": [
       "regular",
-      "italic",
       "700",
+      "italic",
       "700italic"
     ]
   },
@@ -14645,6 +16770,24 @@ export const list = [
   },
   {
     "family": "Vujahday Script",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "WDXL Lubrifont JP N",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "WDXL Lubrifont SC",
+    "variants": [
+      "regular"
+    ]
+  },
+  {
+    "family": "WDXL Lubrifont TC",
     "variants": [
       "regular"
     ]
@@ -14696,7 +16839,8 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
     ]
   },
   {
@@ -14722,6 +16866,44 @@ export const list = [
     "variants": [
       "regular",
       "500"
+    ]
+  },
+  {
+    "family": "Winky Rough",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Winky Sans",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -14761,14 +16943,14 @@ export const list = [
     "family": "Wix Madefor Text",
     "variants": [
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
-      "700italic",
       "800",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
       "800italic"
     ]
   },
@@ -14925,6 +17107,7 @@ export const list = [
   {
     "family": "Ysabeau",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -14934,6 +17117,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -14942,12 +17127,14 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
     "family": "Ysabeau Infant",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -14957,6 +17144,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -14965,12 +17154,14 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
     "family": "Ysabeau Office",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -14980,6 +17171,8 @@ export const list = [
       "700",
       "800",
       "900",
+      "1000",
+      "1italic",
       "100italic",
       "200italic",
       "300italic",
@@ -14988,12 +17181,14 @@ export const list = [
       "600italic",
       "700italic",
       "800italic",
-      "900italic"
+      "900italic",
+      "1000italic"
     ]
   },
   {
     "family": "Ysabeau SC",
     "variants": [
+      "1",
       "100",
       "200",
       "300",
@@ -15002,7 +17197,8 @@ export const list = [
       "600",
       "700",
       "800",
-      "900"
+      "900",
+      "1000"
     ]
   },
   {
@@ -15067,7 +17263,72 @@ export const list = [
       "regular",
       "700",
       "800",
-      "900"
+      "900",
+      "300italic",
+      "italic"
+    ]
+  },
+  {
+    "family": "Zalando Sans",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Zalando Sans Expanded",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
+    ]
+  },
+  {
+    "family": "Zalando Sans SemiExpanded",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900",
+      "200italic",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
+      "700italic",
+      "800italic",
+      "900italic"
     ]
   },
   {
@@ -15163,14 +17424,14 @@ export const list = [
     "family": "Zilla Slab",
     "variants": [
       "300",
-      "300italic",
       "regular",
-      "italic",
       "500",
-      "500italic",
       "600",
-      "600italic",
       "700",
+      "300italic",
+      "italic",
+      "500italic",
+      "600italic",
       "700italic"
     ]
   },
